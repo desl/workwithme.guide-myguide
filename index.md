@@ -1,10 +1,10 @@
 ---
 layout: profile
 # Set both of these to your name
-title: First Last
-full_name: First Last
+title: Dan Lennon
+full_name: Dan Lennon
 # Set this to the Github URL for links to work correctly
-# github_url: https://github.com/abloomston/workwithme.guide-myguide/
+# github_url: https://github.com/desl/workwithme.guide-myguide/
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
 # picture: ./profile.jpg
 # To add your name to the front page list, uncomment below
@@ -36,12 +36,20 @@ What about when one of us wants to call you out in some way for something awesom
 great piece of advice you gave, an insight you had, or your amazing Cat Thursday shirt—how do
 you feel most comfortable receiving that recognition?
 
+I can absolutely be bought with a $25 gift card to somewhere I shop.
+
 ## Work Patterns
 
 What hours do you usually work?
 
 When do you prefer to work alone, versus in groups? How do your energy levels fluctuate through-
 out the day?
+
+I usually start a work day around 8:30am and stop at 5pm.  Start time can be a bit earlier depending on whether I'm dropping kids off at school beforehand. I'm happy to be available earlier or later on a case-by-case basis.
+
+I thrive in both group and working alone and like to close loops quickly.  I'm well suited to program management in that there is lots of opportunity to do both. Last hackweek I went 2 days without having a meeting and felt lonely at work. I did not feel lonely while I was writing code.
+
+Speaking of writing code, it's something I do to calm down when everything is out of control. I give myself an annual coding budget of 3 weeks/year to write code, usually taken a day at a time. I maintain a pile of command line utilities that get and put data into/out of Jira in useful and interesting ways.
 
 ## Communication Preferences
 
@@ -51,6 +59,8 @@ How should people best get your attention for urgent matters, during and out of 
 
 hours? What's your relationship to work communication when not at work? What are your signs
 that you'd prefer to not be interrupted when at work?
+
+I'm pretty good about the work/non-work hours boundaries. I'm unlikely to check slack during non-work hours and will definintely not check email.
 
 ## How To Know I’ve Gone To The Dark Side
 
@@ -93,3 +103,8 @@ and positive ways we can help you be aware of and take corrective action in the 
 
 Let's get to know one another! Here's a great place to list things you've done / activities you love
 / conversations you're (almost) always excited to have!
+
+* Conditional formatting in google sheets.
+* Jira APIs
+* Making your life easier with Zapier
+* Car Stuff
